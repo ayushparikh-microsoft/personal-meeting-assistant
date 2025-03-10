@@ -1,0 +1,4 @@
+azure.identity
+pocketsphinx
+azure-ai-inference
+openai
